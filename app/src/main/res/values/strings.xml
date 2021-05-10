@@ -4,4 +4,8 @@
     <string name="hint_password">Password</string>
     <string name="shr_button_next">Next</string>
     <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_remember_me_cancel">Remember Me</string>
+    <string name="shr_remember_me">Remember Me</string>
+    <string name="shr_button_login">login</string>
+    <string name="shr_button_rememberme">Remember Me</string>
 </resources>
